@@ -1,0 +1,191 @@
+{
+  "reviewed": "2026-11-19",
+  "period": "March 12 to May 29, 2020 hearings",
+  "cases": [
+    {
+      "id": "tugboat-legal-costs",
+      "title": "Tugboat challenge legal costs",
+      "speaker": "Kelly McCauley",
+      "organization": "Public Services and Procurement Canada",
+      "meeting": 5,
+      "hearing": "2020-03-12",
+      "transcript": "https://www.ourcommons.ca/DocumentViewer/en/43-1/OGGO/meeting-5/evidence#Int-10808281",
+      "question": "How much had the government spent on the trade tribunal challenges to the charter of two emergency towing vessels?",
+      "status": "figure",
+      "answer": "About $193,000 in legal costs had been incurred. The French text of the covering email gives the figure, as does the English text of Appendix 3.",
+      "period": "Costs incurred through March 31, 2020.",
+      "reply": "2020-05-22",
+      "document": "https://www.ourcommons.ca/content/Committee/431/OGGO/WebDoc/WD10816721/431_OGGO_reldoc_PDF/DepartmentOfPublicWorksAndGovernmentServices-b.pdf#page=2",
+      "page": 2,
+      "locator": "French covering email, paragraph following item 3.",
+      "extra": [
+        {
+          "label": "Appendix 3 in English · p. 1",
+          "url": "https://www.ourcommons.ca/content/Committee/431/OGGO/WebDoc/WD10816724/431_OGGO_reldoc_PDF/DepartmentOfPublicWorksAndGovernmentServices-3-b.pdf#page=1"
+        }
+      ]
+    },
+    {
+      "id": "phoenix-pay-pods",
+      "title": "The Phoenix pay queue",
+      "speaker": "Francis Drouin",
+      "organization": "Public Services and Procurement Canada",
+      "meeting": 5,
+      "hearing": "2020-03-12",
+      "transcript": "https://www.ourcommons.ca/DocumentViewer/en/43-1/OGGO/meeting-5/evidence#Int-10808910",
+      "question": "What progress had the Pay Centre made since introducing teams assigned to specific departments?",
+      "status": "figure",
+      "answer": "The department reported a 48% reduction in the overall queue and a 61% reduction in the backlog of transactions with financial implications.",
+      "period": "January 2018 to April 29, 2020.",
+      "reply": "2020-05-22",
+      "document": "https://www.ourcommons.ca/content/Committee/431/OGGO/WebDoc/WD10816722/431_OGGO_reldoc_PDF/DepartmentOfPublicWorksAndGovernmentServices-1-b.pdf#page=1",
+      "page": 1,
+      "locator": "Appendix 1, final paragraph of the English response.",
+      "extra": [
+        {
+          "label": "Dated covering email · p. 1",
+          "url": "https://www.ourcommons.ca/content/Committee/431/OGGO/WebDoc/WD10816721/431_OGGO_reldoc_PDF/DepartmentOfPublicWorksAndGovernmentServices-b.pdf#page=1"
+        }
+      ]
+    },
+    {
+      "id": "home-office-equipment",
+      "title": "Home-office equipment costs",
+      "speaker": "Kelly McCauley",
+      "organization": "Treasury Board of Canada Secretariat",
+      "meeting": 10,
+      "hearing": "2020-05-08",
+      "transcript": "https://www.ourcommons.ca/DocumentViewer/en/43-1/OGGO/meeting-10/evidence#Int-10838497",
+      "question": "How much was the government paying for internet or equipment for public servants working from home?",
+      "status": "unavailable",
+      "answer": "The Secretariat said it had no central cost information for equipment provided to employees at home. It also described its guidance on when departments should reimburse internet expenses.",
+      "period": "Remote-work spending during the pandemic. The response gives no accounting cutoff.",
+      "reply": null,
+      "document": "https://www.ourcommons.ca/content/Committee/431/OGGO/WebDoc/WD10812191/431_OGGO_reldoc_PDF/2020-05-08_OGGO_Follow-Ups-GovernmentResponsetotheCOVID-19Pandemic-PublicServants-e.pdf#page=4",
+      "page": 4,
+      "locator": "Question 4, final paragraph under Response.",
+      "extra": []
+    },
+    {
+      "id": "paper-tax-returns",
+      "title": "Paper tax return processing",
+      "speaker": "Marty Morantz",
+      "organization": "Canada Revenue Agency",
+      "meeting": 11,
+      "hearing": "2020-05-11",
+      "transcript": "https://www.ourcommons.ca/DocumentViewer/en/43-1/OGGO/meeting-11/evidence#Int-10839646",
+      "question": "How long did it take to process a paper return, and why were refunds delayed?",
+      "status": "explanation",
+      "answer": "The CRA attributed delays to fewer people working in tax centres and described shifts and priority processing. It gave a service standard for electronic returns, but no turnaround for paper returns.",
+      "period": "2019 tax-year paper returns processed during the spring 2020 disruption.",
+      "reply": null,
+      "document": "https://www.ourcommons.ca/content/Committee/431/OGGO/WebDoc/WD10820351/431_OGGO_reldoc_PDF/CanadaRevenueAgency-e.pdf#page=3",
+      "page": 3,
+      "locator": "Question 1, CRA response, continuing on PDF page 4.",
+      "extra": []
+    },
+    {
+      "id": "cerb-eligibility",
+      "title": "Estimate of ineligible CERB applicants",
+      "speaker": "Ziad Aboultaif",
+      "organization": "Canada Revenue Agency",
+      "meeting": 11,
+      "hearing": "2020-05-11",
+      "transcript": "https://www.ourcommons.ca/DocumentViewer/en/43-1/OGGO/meeting-11/evidence#Int-10839732",
+      "question": "How many Canada Emergency Response Benefit applicants did the minister estimate had applied while ineligible?",
+      "status": "unlocated",
+      "answer": "The chair requested a written response. The CRA document answers two other questions and mentions two further undertakings without naming them. The May 11 documents linked by this study yielded no matching estimate in this review.",
+      "period": "Applications discussed at the May 11, 2020 hearing.",
+      "reply": null,
+      "document": null,
+      "page": null,
+      "locator": "Review scope: the study index and its May 11 CRA and Employment and Social Development Canada documents.",
+      "extra": [
+        {
+          "label": "Committee study index",
+          "url": "https://www.ourcommons.ca/committees/en/OGGO/StudyActivity?studyActivityId=10820909"
+        },
+        {
+          "label": "CRA follow-up · p. 2",
+          "url": "https://www.ourcommons.ca/content/Committee/431/OGGO/WebDoc/WD10820351/431_OGGO_reldoc_PDF/CanadaRevenueAgency-e.pdf#page=2"
+        },
+        {
+          "label": "ESDC follow-up · p. 1",
+          "url": "https://www.ourcommons.ca/content/Committee/431/OGGO/WebDoc/WD10802692/431_OGGO_reldoc_PDF/DepartmentOfEmploymentAndSocialDevelopment-b.pdf#page=1"
+        }
+      ]
+    },
+    {
+      "id": "rent-relief",
+      "title": "Commercial rent assistance",
+      "speaker": "Xavier Barsalou-Duval",
+      "organization": "Office of the Parliamentary Budget Officer",
+      "meeting": 15,
+      "hearing": "2020-05-29",
+      "transcript": "https://www.ourcommons.ca/DocumentViewer/en/43-1/OGGO/meeting-15/evidence#Int-10862360",
+      "question": "How did the budget officer assess the rent-relief program, given the member’s concern about uptake?",
+      "status": "figure",
+      "answer": "The model put eligible rents at $1.6 billion and estimated the program’s fiscal cost at $520 million. The estimate assumed landlords would apply for approximately 80% of eligible rents.",
+      "period": "The initial three-month Canada Emergency Commercial Rent Assistance program model. These are projected amounts.",
+      "reply": "2020-06-05",
+      "document": "https://www.ourcommons.ca/content/Committee/431/OGGO/WebDoc/WD10802696/431_OGGO_reldoc_PDF/OfficeOfTheParliementaryBudgetOfficer-e.pdf#page=3",
+      "page": 3,
+      "locator": "Supplementary Responses, Mr. Barsalou-Duval, paragraphs below eligibility criteria.",
+      "extra": []
+    },
+    {
+      "id": "household-debt",
+      "title": "Stimulus and household debt",
+      "speaker": "Irek Kusmierczyk",
+      "organization": "Office of the Parliamentary Budget Officer",
+      "meeting": 15,
+      "hearing": "2020-05-29",
+      "transcript": "https://www.ourcommons.ca/DocumentViewer/en/43-1/OGGO/meeting-15/evidence#Int-10862215",
+      "question": "How important was federal support in helping families manage household debt?",
+      "status": "unavailable",
+      "answer": "The budget officer said his office had not estimated the impact of the support measures on household debt. The letter described the role of income support and lower interest rates.",
+      "period": "Pandemic support measures discussed on May 29, 2020.",
+      "reply": "2020-06-05",
+      "document": "https://www.ourcommons.ca/content/Committee/431/OGGO/WebDoc/WD10802696/431_OGGO_reldoc_PDF/OfficeOfTheParliementaryBudgetOfficer-e.pdf#page=4",
+      "page": 4,
+      "locator": "Supplementary Responses, Mr. Kusmierczyk, first sentence of answer.",
+      "extra": []
+    },
+    {
+      "id": "subnational-debt",
+      "title": "Provincial and municipal debt",
+      "speaker": "Kelly McCauley",
+      "organization": "Office of the Parliamentary Budget Officer",
+      "meeting": 15,
+      "hearing": "2020-05-29",
+      "transcript": "https://www.ourcommons.ca/DocumentViewer/en/43-1/OGGO/meeting-15/evidence#Int-10862276",
+      "question": "What was the debt outlook for provinces and municipalities?",
+      "status": "figure",
+      "answer": "The February analysis estimated a permanent fiscal adjustment of 0.3% of GDP, about $6 billion, to stabilize consolidated subnational net debt relative to GDP. The office said the pandemic and oil shocks warranted updated projections.",
+      "period": "February 2020 baseline and a 75-year sustainability horizon.",
+      "reply": "2020-06-05",
+      "document": "https://www.ourcommons.ca/content/Committee/431/OGGO/WebDoc/WD10802696/431_OGGO_reldoc_PDF/OfficeOfTheParliementaryBudgetOfficer-e.pdf#page=2",
+      "page": 2,
+      "locator": "Supplementary Responses, Mr. McCauley, paragraphs on the February baseline.",
+      "extra": []
+    },
+    {
+      "id": "cra-call-centres",
+      "title": "Volunteers for CRA phone lines",
+      "speaker": "Majid Jowhari",
+      "organization": "Canada Revenue Agency",
+      "meeting": 11,
+      "hearing": "2020-05-11",
+      "transcript": "https://www.ourcommons.ca/DocumentViewer/en/43-1/OGGO/meeting-11/evidence#Int-10839663",
+      "question": "What challenges did the CRA face in reassigning staff and training them to handle calls?",
+      "status": "figure",
+      "answer": "Over 7,500 existing CRA employees offered to take calls. The agency selected a smaller group according to skills and experience, and described how it trained agents for general inquiries.",
+      "period": "Spring 2020 reassignment for benefit inquiries. The figure counts volunteers.",
+      "reply": null,
+      "document": "https://www.ourcommons.ca/content/Committee/431/OGGO/WebDoc/WD10820351/431_OGGO_reldoc_PDF/CanadaRevenueAgency-e.pdf#page=5",
+      "page": 5,
+      "locator": "Question 2, CRA response, second paragraph, continuing on PDF page 6.",
+      "extra": []
+    }
+  ]
+}

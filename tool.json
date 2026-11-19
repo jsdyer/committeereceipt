@@ -1,16 +1,40 @@
 {
-  "id": "coolcode-tool-template",
-  "title": "CoolCode Tool Starter",
-  "description": "A browser-only example that trims lines and removes exact duplicates.",
-  "category": "security",
-  "tags": ["text", "lines", "duplicates"],
-  "icon": "scan-search",
-  "url": "/coolcode-tool-template/",
-  "source": "https://github.com/jsdyer/coolcode-tool-template",
+  "id": "committeereceipt",
+  "title": "Committee Receipt",
+  "description": "Trace a question from a House of Commons hearing to the page where officials answered it.",
+  "category": "explorers",
+  "tags": [
+    "Parliament",
+    "OGGO",
+    "committee evidence",
+    "procurement",
+    "Phoenix",
+    "written answers"
+  ],
+  "icon": "landmark",
+  "url": "/committeereceipt/",
+  "source": "https://github.com/jsdyer/committeereceipt",
   "hosting": "project",
   "access": "browser",
   "data_info": {
-    "mode": "local",
-    "detail": "The browser reads the text you paste and compares its lines."
+    "mode": "snapshot",
+    "detail": "House of Commons transcripts and written follow-ups trace nine questions at four Government Operations hearings from March to May 2020.",
+    "cadence": "Manual review",
+    "probes": [
+      {
+        "label": "Collection reviewed",
+        "url": "https://coolcode.ca/committeereceipt/receipts.json",
+        "path": [
+          "reviewed"
+        ],
+        "count_at": {
+          "path": [
+            "cases"
+          ],
+          "measure": "length",
+          "unit": "exchanges"
+        }
+      }
+    ]
   }
 }
