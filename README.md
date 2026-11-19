@@ -10,7 +10,7 @@ Look up the tugboat challenge to find the roughly $193,000 on page 2 of the May 
 
 ## Collection and sources
 
-Nine hand-matched or reviewed exchanges from four hearings in the first session of the 43rd Parliament. The first hearing was March 12, 2020 and the last was May 29, 2020. Source documents retrieved and reviewed November 19, 2026. The selection contains five exchanges with figures, two where the office explicitly lacked an estimate or a central figure, one explanation and one exchange with no match in the records reviewed. Coverage is editorial and does not support committee-wide response rates.
+Nine hand-matched or reviewed exchanges from four hearings in the first session of the 43rd Parliament. The first hearing was March 12, 2020 and the last was May 29, 2020. Source documents retrieved and reviewed November 19, 2026. New and changed matches are reviewed manually. The selection contains five exchanges with figures, two where the office explicitly lacked an estimate or a central figure, one explanation and one exchange with no match in the records reviewed. Coverage is editorial and does not support committee-wide response rates.
 
 | Hearing | Records in this index |
 | --- | --- |
